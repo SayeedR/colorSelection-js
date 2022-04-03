@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 300px;
+    height: 300px;
+   
+}
+h1,
+span{
+    font-family: monospace;
+    font-size: 2em;
+    display: inline-block;
+    
+}
+#selectedColor{
+    
+    color: rgb(253, 251, 251);
+    padding: 5px;
+}
